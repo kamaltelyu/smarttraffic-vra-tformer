@@ -1,0 +1,9 @@
+condition,severity,sequences,bins
+blur,1,3,132
+blur,3,3,132
+frame_drop,1,3,132
+frame_drop,3,3,132
+lowlight,1,3,132
+lowlight,3,3,132
+occlusion,1,3,132
+occlusion,3,3,132

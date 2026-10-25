@@ -1,0 +1,5 @@
+Criterion,Pass,RB_value,Threshold_reference
+Clean within 1% of best clean model,False,11.438146114349365,11.201061973571777
+Absolute degraded MAE better than Transformer,False,16.97625434398651,16.79840636253357
+Clean MAE better than Transformer,False,11.438146114349365,11.190452814102173
+120-s MAE <=11.50,False,11.877927780151367,11.5

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated SmartTraffic manuscript."
+title: "SmartTraffic: Visual Reliability in Camera-Derived Multi-Horizon Traffic Flow Forecasting"
+type: software
+authors:
+  - family-names: Kamal
+    given-names: Mustafa
+  - family-names: Riyadi
+    given-names: Michael Angello Qadosy
+  - family-names: Rahmanti
+    given-names: Farah Zakiyah
+  - family-names: Rausanfita
+    given-names: Alqis
+  - family-names: Al Mujahidin
+    given-names: Sulthonika Mahfudz
+version: 1.0.0
+date-released: 2026-10-25

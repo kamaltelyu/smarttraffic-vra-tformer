@@ -1,0 +1,7 @@
+Criterion,Pass,RR_value,Threshold_reference
+Strict clean best,False,12.9558424949646,11.0902
+Strict robustness best,True,3.9412014484405518,8.542
+Clean MAE <=11.20,False,12.9558424949646,11.2
+Average robustness degradation <=10%,True,3.9412014484405518,10.0
+120-s MAE <= vanilla reference,False,13.70239543914795,11.4349
+Worst scenario degradation <=40%,True,21.162811279296875,40.0

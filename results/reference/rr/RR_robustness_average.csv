@@ -1,0 +1,5 @@
+Model,Clean_MAE,Degraded_MAE,Relative_Degradation_pct
+RR-TFormer,17.036427,17.707867,3.9412014
+Transformer,15.476411,16.798407,8.542003
+VRA-TFormer-old,15.658095,19.406092,23.936476
+Transformer+ReliabilityConcat,16.756132,27.346127,63.20071

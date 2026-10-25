@@ -1,0 +1,41 @@
+{
+  "project_root": "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES",
+  "final_excel": "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/SmartTraffic_IJIES_All_Tables_FINAL.xlsx",
+  "final_digest": "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/SmartTraffic_IJIES_Result_Digest_FINAL.md",
+  "robust_lookback_steps": 24,
+  "robust_sequences": [
+    "cam_1",
+    "cam_2_rain"
+  ],
+  "best_clean_model": "Transformer+ReliabilityConcat",
+  "best_robust_rd_model": "Transformer",
+  "best_degraded_mae_model": "Transformer",
+  "figures": [
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig4_FINAL_clean_forecasting_MAE.pdf",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig4_FINAL_clean_forecasting_MAE.png",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig5_FINAL_ablation.pdf",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig5_FINAL_ablation.png",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig6_FINAL_robustness_relative_degradation.pdf",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig6_FINAL_robustness_relative_degradation.png",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig7_FINAL_matched_clean_vs_degraded.pdf",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig7_FINAL_matched_clean_vs_degraded.png",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig8_FINAL_clean_forecast_trace.pdf",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/figures/Fig8_FINAL_clean_forecast_trace.png"
+  ],
+  "tables": [
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/SmartTraffic_IJIES_All_Tables_FINAL.xlsx",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/degradation_scenario_inventory_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/learned_reliability_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/model_checkpoint_audit_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/resume_asset_audit_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_ablation_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_clean_wilcoxon_holm_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_dataset_summary_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_forecasting_split_summary_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_main_forecasting_results_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_model_efficiency_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_robustness_full_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_robustness_summary_FINAL.csv",
+    "/content/drive/MyDrive/SmartTraffic_VRA_TFormer_IJIES/tables/table_robustness_wilcoxon_holm_FINAL.csv"
+  ]
+}
